@@ -59,7 +59,9 @@ const handleAnalyze=async({companyName,jobTitle,jobDescription,file}:{companyNam
     data.feedback=JSON.parse(feedbackText)
     await kv.set(`resume:${uuid}`,JSON.stringify(data))
     setStatusText('Analysis complete, redirecting...')
-    console.log(data);
+    
+
+    navigate(`/resume/${uuid}`);
     
 }
 
