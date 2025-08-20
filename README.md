@@ -78,7 +78,6 @@ Then open `http://localhost:5173` in your browser.
 
 ## 📌 LIVE DEMO
 
-Check it out here: \[https://resuscan.vercel.app/\]
-`<!-- Replace with your actual deployed link -->`{=html}
+Check it out here: \[]
 
 ------------------------------------------------------------------------
