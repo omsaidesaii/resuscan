@@ -143,7 +143,7 @@ We welcome contributions! To contribute:
 
 ## 📌 LIVE DEMO
 
-👉 <https://resuscan.vercel.app/> *(Replace with actual deployed link)*
+👉 <https://resuscan.vercel.app/> 
 
 ------------------------------------------------------------------------
 
